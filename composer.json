@@ -1,0 +1,21 @@
+{
+    "name": "sanpyae/yii2-imagegalllery",
+    "description": "image gallery for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","image","gallery"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "sanpyaelin",
+            "email": "sanpyaelin@irrahub.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sanpyae\\imagegalllery\\": ""
+        }
+    }
+}
