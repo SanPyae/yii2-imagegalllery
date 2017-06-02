@@ -10,6 +10,12 @@
             "email": "sanpyaelin@irrahub.com"
         }
     ],
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/SanPyae/yii2-imagegalllery/"
+        }
+    ]
     "require": {
         "yiisoft/yii2": "*"
     },
